@@ -1,1 +1,1 @@
-# Data-em-javaScript
+Atividade desenvolvida durante o curso Full Stack da Cubos Academy.
