@@ -12,4 +12,4 @@ const primeiroGolDate = new Date(primeiroGolTimestamp);
 
 console.log(primeiroGolDate); // 2002-06-30T12:22:00.000Z primeiro gol
 
-console.log(new Date(+finalDaCopa + (45 + 15 + 38) * 60 * 1000));
+console.log(new Date(+finalDaCopa + (45 + 15 + 38) * 60 * 1000)); // 2002-06-30T12:38:00.000Z segundo gol
